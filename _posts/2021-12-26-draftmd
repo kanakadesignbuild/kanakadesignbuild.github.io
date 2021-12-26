@@ -1,0 +1,15 @@
+---
+layout: post
+title: draft
+cover: founder1.jpg
+excerpt: 
+category: house
+---
+
+Draft
+
+---
+![_config.yml]({{ site.baseurl }}/founder1.jpg)
+
+
+![_config.yml]({{ site.baseurl }}/images/founder2.jpeg)
