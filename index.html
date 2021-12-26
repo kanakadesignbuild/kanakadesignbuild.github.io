@@ -1,0 +1,93 @@
+---
+layout: default
+---
+
+<!-- !PAGE CONTENT! -->
+<div class="w3-main" style="margin-left:340px;margin-right:40px">
+
+  <!-- Header -->
+  <div class="w3-container" style="margin-top:20px" id="showcase">
+    <!-- <h1 class="w3-jumbo"><b>Interior Design</b></h1> -->
+    <h1 class="w3-xxxlarge w3-text-red"><b>Latest Design</b></h1>
+    <hr style="width:50px;border:5px solid red" class="w3-round">
+    <a href="{{ site.baseurl }}/all-design"><button class="w3-button w3-black">All</button></a>
+    <a href="{{ site.baseurl }}/house-project"><button class="w3-button w3-black">House Project</button></a>
+    <a href="{{ site.baseurl }}/interior-room"><button class="w3-button w3-black">Interior Room</button></a>
+    <a href="{{ site.baseurl }}/kitchen-set"><button class="w3-button w3-black">Kitchen Set</button></a>
+    <a href="{{ site.baseurl }}/cafe-project"><button class="w3-button w3-black">Cafe Project</button></a>
+    <a href="{{ site.baseurl }}/custom-furniture"><button class="w3-button w3-black">Custom Furniture</button></a>
+    <div class="w3-row-padding">
+      <div class="w3-container">
+        {% assign counter = '0' %}
+        {% for post in site.posts %}
+        {% if counter < '4' %} {% capture counter %}{{ counter | plus:'1' }}{% endcapture %} <article
+          class="post w3-half">
+          <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}/images/{{ post.cover }}" alt=""></a>
+          <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
+          </article>
+          {% endif %}
+          {% endfor %}
+      </div>
+    </div>
+  </div>
+
+  <!-- Founders -->
+  <div class="w3-container" id="founders">
+    <h1 class="w3-xxxlarge w3-text-red"><b>Founders</b></h1>
+    <hr style="width:50px;border:5px solid red" class="w3-round">
+    <div class="w3-col m6 w3-margin-bottom">
+      <div class="w3-light-grey">
+        <img src="images/founder1.jpg" alt="Putu Yoga Pramestya, ST">
+        <div class="w3-container" style="
+        padding-bottom: 23px;">
+          <h3>Putu Yoga Pramestya, ST</h3>
+          <p class="w3-opacity">Founder</p>
+          <p>Civil Engineer | PT. Nusa Raya Cipta</p>
+        </div>
+      </div>
+    </div>
+    <div class="w3-col m6 w3-margin-bottom">
+      <div class="w3-light-grey">
+        <img src="images/founder2.jpeg" alt="ir. R. Aody Pangestu Putra, S.T">
+        <div class="w3-container">
+          <h3>ir. R. Aody Pangestu Putra, S.T</h3>
+          <p class="w3-opacity">Founder</p>
+          <p>Civil Engineer | Dinas Pekerjaan Umum dan Penataan Ruang (PUPR) Kabupaten Badung</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- About -->
+  <div class="w3-container" id="about">
+    <h1 class="w3-xxxlarge w3-text-red"><b>About Us</b></h1>
+    <hr style="width:50px;border:5px solid red" class="w3-round">
+    <p>
+      Kanaka design build berdiri pada 25 Agustus 2020 dan berlokasi di Denpasar. Pada awalnya bergerak pada bidang usaha custom furniture hingga kemudian memperluas ke bidang konstruksi hingga saat ini, serta dikembangkan juga untuk melayani jasa desain struktur, arsitektur dan interior. 
+    </p> 
+    <h4>Visi</h4>
+    <p> 
+      menjadi perusahaan kontraktor dan interior yang mengedepankan teknologi dalam penerapan produk dan memberi pelayanan kualitas terbaik bagi pelanggan. 
+    </p>
+    <h4>Misi</h4>
+    <p>
+      1.	Selalu membantu konsumen dalam memberikan ide, konsep baru dan karya – karya yang menarik dengan penerapan sistem teknologi digital. <br>
+      2.	Berkomitmen untuk selalu menghasilkamn produk bermutu yang berorietasi pada kepuasan pelanggan. <br>
+      3.	Memiliki SDM yang professional, berintegtitas tinggi serta berorientasi kepada peningkatan. <br>
+      4.	Menerapkan SOP (Standard Operating Procedure) yang jelas.
+    </p> 
+    
+  </div>
+
+  <!-- Contact -->
+  <div class="w3-container" id="contact">
+    <h1 class="w3-xxxlarge w3-text-red"><b>Contact.</b></h1>
+    <hr style="width:50px;border:5px solid red" class="w3-round">
+    <p>Hubungi Kami Via WhatsApp!</p>
+    <button class="w3-button w3-padding-large w3-red w3-margin-bottom"><a class="btn contact-btn" role="button" href="https://wa.me/6282146247447"> Hubungi Kami</a></button>
+    
+    
+    
+  </div>
+
+  <!-- End page content -->

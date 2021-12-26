@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<div class="w3-main" style="margin-left:340px;margin-right:40px">
+  <article class="post w3-container">
+    <h1>{{ page.title }}</h1>
+
+    <div class="entry">
+      {{ content }}
+    </div>
+
+    <div class="date">
+      Written on {{ page.date | date: "%B %e, %Y" }}
+    </div>
+
+    {% include disqus.html %}
+  </article>
+</div>
