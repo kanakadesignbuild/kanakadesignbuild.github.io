@@ -1,7 +1,7 @@
 ---
 layout  : post
 title   : Desain Facade Pantry Modern Kontemporer
-cover   : cover/cover3.jpg
+cover   : facade-pantry/3.jpg
 excerpt : 
 category: house
 ---
