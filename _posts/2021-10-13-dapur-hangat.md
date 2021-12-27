@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Desain Dapur Hangat
-cover: dapur-hangat/1.jpg
-excerpt: 
+layout  : post
+title   : Desain Dapur Hangat
+cover   : dapur-hangat/1.jpg
+excerpt : 
 category: kitchen-set
 ---
 
-Project	: Design & Build
+Project 	: Design & Build
 
-Tahun		: 2020
+Tahun		  : 2020
 
-Pemilik	: Bapak 
-
+Pemilik	  : Bapak 
+ 
 Lokasi		: Denpasar
 
 ---
