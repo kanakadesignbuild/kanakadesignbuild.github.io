@@ -15,7 +15,7 @@ Pemilik	: Bapak Arya
 Lokasi	: Sukawati, Gianyar
 
 ---
-![_config.yml]({{ site.baseurl }}/images/facade-pantry/1.jpg)
+![_config.yml]({{ site.baseurl }}/images/facade-pantry/3.jpg)
 
 Kontemporer pada dasarnya adalah gaya desain yang sedang up to date atau sedang diproduksi pada masa sekarang. Kontemporer bersifat dinamis dan tidak terikat oleh suatu era. Sebaliknya, modern pada dasarnya menandakan sebuah era setelah era tradisional atau pra-industri. Desain yang kontemporer menampilkan gaya yang lebih baru.
 Gaya lama yang diberi label kontemporer akan menghasilkan suatu desain yang lebih segar dan berbeda. Kontemporer juga menyajikan kombinasi gaya, seperti modern kotemporer, klasik kontemporer, rustic kontemporer, dan lainnya.
