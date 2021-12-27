@@ -21,4 +21,3 @@ Desain meja ala industrial menghadirkan meja berbahan kayu berkaki besi. Perpadu
 
 ![_config.yml]({{ site.baseurl }}/images/meja-industrial/2.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/meja-industrial/3.jpg)
