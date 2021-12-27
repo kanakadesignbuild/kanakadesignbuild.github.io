@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Desain Facade Pantry Modern Kontemporer
-cover: cover/cover1.jpg
+cover: cover/cover3.jpg
 excerpt: 
 category: house
 ---
@@ -27,6 +27,6 @@ Untuk bagian lantai, Anda dapat menerapkan gaya serupa seperti pada bagian dindi
 
 
 ![_config.yml]({{ site.baseurl }}/images/facade-pantry/2.jpg)
-![_config.yml]({{ site.baseurl }}/images/facade-pantry/3.jpg)
+![_config.yml]({{ site.baseurl }}/images/facade-pantry/1.jpg)
 ![_config.yml]({{ site.baseurl }}/images/facade-pantry/4.jpg)
 ![_config.yml]({{ site.baseurl }}/images/facade-pantry/5.jpg)
