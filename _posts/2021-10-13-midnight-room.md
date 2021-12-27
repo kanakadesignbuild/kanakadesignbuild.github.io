@@ -23,3 +23,7 @@ Alasan mengapa warna abu-abu cocok dengan tema furniture adalah sifatnya yang me
 
 ![_config.yml]({{ site.baseurl }}/images/midnight-room/2.jpg)
 ![_config.yml]({{ site.baseurl }}/images/midnight-room/3.jpg)
+![_config.yml]({{ site.baseurl }}/images/midnight-room/4.jpg)
+![_config.yml]({{ site.baseurl }}/images/midnight-room/5.jpg)
+![_config.yml]({{ site.baseurl }}/images/midnight-room/6.jpg)
+![_config.yml]({{ site.baseurl }}/images/midnight-room/7.jpg)
