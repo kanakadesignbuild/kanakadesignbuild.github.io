@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Desain Rumah Modern Minimalis
-cover: cover/cover2.jpg
-excerpt: 
+layout  : post
+title   : Desain Rumah Modern Minimalis
+cover   : cover/cover2.jpg
+excerpt : 
 category: house
 ---
 
 
-Project	: Design
+Project 	: Design
 
-Tahun		: 2021
+Tahun	  	: 2021
 
-Pemilik	: Ibu Putu
+Pemilik 	: Ibu Putu
 
 Lokasi		: Batubulan, Gianyar
 
@@ -23,4 +23,5 @@ Desain rumah modern minimalis ini menggunakan (struktur eksterior pada bangunan 
 Pada dasarnya, konsep minimalis modern mengutamakan efisiensi dan fungsional, tetapi dapat memenuhi kebutuhan penghuninya. Hal yang unik, konsep ini tidak hanya menyangkut bentuk arsitektur rumah, tapi juga desain interior, pemilihan perabot, warna, pengaturan cahaya, hingga tanaman penghias rumah.
 
 ![_config.yml]({{ site.baseurl }}/images/rumah-modern-minimalis/2.jpg)
+
 ![_config.yml]({{ site.baseurl }}/images/rumah-modern-minimalis/3.jpg)
