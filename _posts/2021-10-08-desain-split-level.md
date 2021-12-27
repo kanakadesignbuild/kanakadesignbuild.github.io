@@ -1,18 +1,18 @@
 ---
-layout: post
-title: Desain Split Level
-cover: cover/cover3.jpg
-excerpt: 
+layout  : post
+title   : Desain Split Level
+cover   : cover/cover3.jpg
+excerpt : 
 category: house
 ---
 
 ---
 
-Project	: Design
+Project 	: Design
 
-Tahun		: 2021
+Tahun		  : 2021
 
-Pemilik	: Bapak Aldo
+Pemilik	  : Bapak Aldo
 
 Lokasi		: Denpasar
 
