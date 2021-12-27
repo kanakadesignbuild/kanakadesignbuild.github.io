@@ -27,6 +27,9 @@ Untuk bagian lantai, Anda dapat menerapkan gaya serupa seperti pada bagian dindi
 
 
 ![_config.yml]({{ site.baseurl }}/images/facade-pantry/2.jpg)
+
 ![_config.yml]({{ site.baseurl }}/images/facade-pantry/1.jpg)
+
 ![_config.yml]({{ site.baseurl }}/images/facade-pantry/4.jpg)
+
 ![_config.yml]({{ site.baseurl }}/images/facade-pantry/5.jpg)
