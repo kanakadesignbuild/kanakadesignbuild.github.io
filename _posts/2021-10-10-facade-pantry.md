@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Desain Facade Pantry Modern Kontemporer
-cover: cover/cover3.jpg
-excerpt: 
+layout  : post
+title   : Desain Facade Pantry Modern Kontemporer
+cover   : cover/cover3.jpg
+excerpt : 
 category: house
 ---
 
@@ -12,7 +12,7 @@ Tahun		: 2021
 
 Pemilik	: Bapak Arya
 
-Lokasi		: Sukawati, Gianyar
+Lokasi	: Sukawati, Gianyar
 
 ---
 ![_config.yml]({{ site.baseurl }}/images/facade-pantry/1.jpg)
