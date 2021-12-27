@@ -46,3 +46,6 @@ Kerugian rumah split level:
 ![_config.yml]({{ site.baseurl }}/images/split-level/3.jpg)
 ![_config.yml]({{ site.baseurl }}/images/split-level/2.jpg)
 ![_config.yml]({{ site.baseurl }}/images/split-level/IMG-20211027-WA0010.jpg)
+![_config.yml]({{ site.baseurl }}/images/split-level/IMG-20211027-WA0014.jpg)
+![_config.yml]({{ site.baseurl }}/images/split-level/IMG-20211027-WA0015.jpg)
+![_config.yml]({{ site.baseurl }}/images/split-level/kanak1.png)
