@@ -1,7 +1,7 @@
 ---
 layout  : post
 title   : Desain Split Level
-cover   : images/cover/cover1.jpg
+cover   : images/cover/cover3.jpg
 excerpt : 
 category: house
 ---
