@@ -1,7 +1,7 @@
 ---
 layout  : post
 title   : Desain Split Level
-cover   : images/cover/cover3.jpg
+cover   : images/cover/kanak12.png
 excerpt : 
 category: house
 ---
@@ -42,6 +42,8 @@ Keuntungan memiliki rumah split level:
 Kerugian rumah split level:
 
 • Sistem konstruksi rumah split level yang lebih rumit
+
+![_config.yml]({{ site.baseurl }}/images/split-level/IMG-20211027-WA0017.jpg)
 
 ![_config.yml]({{ site.baseurl }}/images/split-level/3.jpg)
 
