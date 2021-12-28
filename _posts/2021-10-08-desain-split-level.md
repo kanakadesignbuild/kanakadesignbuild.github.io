@@ -1,7 +1,7 @@
 ---
 layout  : post
 title   : Desain Split Level
-cover   : images/cover/kanak12.png
+cover   : cover/kanak12.png
 excerpt : 
 category: house
 ---
